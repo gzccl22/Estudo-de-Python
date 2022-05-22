@@ -8,6 +8,6 @@ print('A raiz quadrada de {} vale {}'.format(n,r))
 
 
 #na raiz quadrada da um resultado gigante para encurtar 8.831760866327848
-#é preciso acrescentar :.2f dentro dos {}
+#é preciso acrescentar :.2f dentro dos {} significa depois do ponto flutuante coloque apenas 2 digitos 
 
 
